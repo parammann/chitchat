@@ -1,0 +1,60 @@
+<style>
+body{
+	margin: 0px;
+	padding: 0px;
+	height: 100%; 
+	color: #585858;
+}
+header{
+	height: 100px;
+	background-color: #b8b894;
+	color: #39ac73;
+}
+
+header a{
+	text-align: right;
+	text-decoration: none;
+
+    
+}
+header a.sign{
+	box-shadow: 5px 5px 5px #888888;
+	margin-left: 20em;
+	padding: 1em;
+	color: #ffffff;
+	background-color: #39ac73;
+}
+header a.sign:active{
+	box-shadow: 10px 10px 5px #888888;
+	background-color: #9fdfbf;
+}
+header a.login{
+	margin-left: 1em;
+	padding: 1em;
+	color: #39ac73;
+}
+header a.login:hover{
+	text-decoration: underline;	
+}
+nav{
+	margin-top: 75px;
+	color: #585858;
+	font-size: 25px;
+	font-family: Lucida Console", Monaco, monospace;
+	font-weight: 500px;
+	text-align: center;
+}
+section{
+	margin-top: 50px;
+	margin-left: 450px;
+	color: #585858;
+}
+article{
+	margin-left: 530px;
+}
+footer{
+	margin-left: 540px;
+	margin-right: 530px;
+	color: #585858;
+}
+</style>

@@ -1,0 +1,46 @@
+<style>
+body{
+	margin: 0px;
+	padding: 0px;
+	height: 100%; 
+	color: #585858;
+}
+header{
+	height: 100px;
+	background-color: #b8b894;
+	color: #39ac73;
+}
+header a.sign{
+	text-decoration: none;
+	box-shadow: 5px 5px 5px #888888;
+	margin-left: 26em;
+	padding: 1em;
+	color: #ffffff;
+	background-color: #39ac73;
+}
+header a.sign:active{
+	box-shadow: 10px 10px 5px #888888;
+	background-color: #9fdfbf;
+}
+nav{
+	margin-top: 80px;
+	margin-left: 150px;
+}
+nav     img.img-circle {
+        border-radius: 50%;
+	width: 150px;
+	height: 150px;
+    }
+nav  a.img-blur:hover{
+	opacity:0.7;
+} 
+nav form.usr{
+	padding-left: 100px;
+}
+footer{
+	margin-top: 380px;
+	margin-left: 520px;
+	margin-right: 550px;
+	color: #585858;
+}
+</style>

@@ -1,0 +1,33 @@
+<style>
+body{
+	margin: 0px;
+	padding: 0px;
+	height: 100%; 
+	color: #585858;
+}
+header{
+	height: 100px;
+	background-color: #b8b894;
+	color: #39ac73;
+}
+nav{
+	margin-top: 45px;
+	color: #585858;
+	font-size: 25px;
+	font-family: Lucida Console", Monaco, monospace;
+	font-weight: 500px;
+	margin-left: 470px;
+}
+section{
+	margin-top: 30px;
+	margin-left: 400px;
+	color: #585858;
+	padding-left: 75px;
+}
+footer{
+	margin-top: 300px;
+	margin-left: 520px;
+	margin-right: 550px;
+	color: #585858;
+}
+</style>
