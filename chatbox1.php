@@ -18,7 +18,7 @@ echo "<div class='msg'>".$rows['msg']."</div></div></a>";
 }
 }
 else{
-echo "<a href='msg.php?user=".$rowes["me"]."' style='text-decoration: none;'><div class='other'>".$rowes['username'];
+echo "<a href='msg.php?user=".$rowes["me"]."' style='text-decoration: none;'><div class='other'>".$rowes['me'];
 
 $tablnm=$rowes['tablename'];
  $res=mysqli_query($link,"SELECT * FROM $tablnm ORDER BY id DESC LIMIT 1");
